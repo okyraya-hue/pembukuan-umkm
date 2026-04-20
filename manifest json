@@ -1,0 +1,15 @@
+{
+  "name": "Pembukuan UMKM",
+  "short_name": "UMKM",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#28a745",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
